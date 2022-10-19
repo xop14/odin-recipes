@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#site-title {
+    color:firebrick;
+    margin-top: 0px;
+    font-size: 45px;
+}
+
+p {
+    color: #666666;
+    line-height: 25px;
+}
+
+ul, ol {
+    padding-left: 20px;
+    color: #666666;
+    line-height: 30px;
+}
+li {
+    color: #666666;
+    padding-left: 5px;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: goldenrod;
+}
